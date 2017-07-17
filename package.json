@@ -1,0 +1,15 @@
+{
+  "name": "uv-en-gb-theme",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UniversalViewer/uv-en-GB-theme.git"
+  },
+  "author": "Edward Silverton <ed@edsilv.com> (http://edsilv.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UniversalViewer/uv-en-GB-theme/issues"
+  },
+  "homepage": "https://github.com/UniversalViewer/uv-en-GB-theme#readme"
+}
