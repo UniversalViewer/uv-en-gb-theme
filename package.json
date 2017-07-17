@@ -4,12 +4,12 @@
   "description": "",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/UniversalViewer/uv-en-GB-theme.git"
+    "url": "git+https://github.com/UniversalViewer/uv-en-gb-theme.git"
   },
   "author": "Edward Silverton <ed@edsilv.com> (http://edsilv.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/UniversalViewer/uv-en-GB-theme/issues"
+    "url": "https://github.com/UniversalViewer/uv-en-gb-theme/issues"
   },
-  "homepage": "https://github.com/UniversalViewer/uv-en-GB-theme#readme"
+  "homepage": "https://github.com/UniversalViewer/uv-en-gb-theme#readme"
 }
